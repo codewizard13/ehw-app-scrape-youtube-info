@@ -7,7 +7,7 @@
 | Version       | 1.00                               |
 | Programmer    | Eric Hepperle                      |
 
-### TECHNOLOGIES:
+### TECHNOLOGIES
 
 <img align="left" alt="HTML5" title="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 
@@ -21,60 +21,50 @@
 
 <br>
 
-## Purpose:
+## Purpose
 
 **<u>App:</u>** This may actually be better called a "Demo" (we shall see). It simply consumes RSS with plain vanilla JavaScript.
 
-## Description:
+## Description
 
 N/A
 
-###  Concepts Covered:
+### Concepts Covered
 
 - What the fetch API is
 - How to use the fetch API
 - Parsing XML with JavaScript fetch API
 - Consuming / Parsing XML with fetch
 
-### Materials/References:
+### Materials/References
 
-- Fetch Article: https://blog.webdevsimplified.com/202...
-- Learn Promises In 10 Minutes Video: https://youtu.be/DHvZLI7Db8E
-- Async Await Tutorial: https://youtu.be/V_Kr9OSfDeU
+- [https://bytearcher.com/articles/es6-vs-es2015-name/](https://bytearcher.com/articles/es6-vs-es2015-name/)
 
-### Sample Code from Tutorial:
+### Sample Code from Tutorial
 
 ![Sample Code PLACEHOLDER]()
 
     
-## Usage:
-1. CD to project folder in a shell terminal
-2. Run npm start
-3. Launch http://localhost:3000 in the browser, you should see an empty tic-tac-toe field.
+## Usage
+1. Copy-paste JS code into browser console and run
     
 ## Sample results: 
 
 ![Sample Results PLACEHOLDER]()
 
-## Requires:
+## Requires
 * A web browser.
     
-## Demonstrates:
+## Demonstrates
 * JavaScript
-* Fetch API
-* XML Parsing
-* RSS
+* ES6 / ECMAScript 2015
+* Web Scraping / Web Scrapers
 
-## Based on this tutorial:
-- **Title:** Learn Fetch API In 6 Minutes
-- **URL:** https://www.youtube.com/watch?v=cuEtnrL9-H0
-- **Channel:** [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
+## TAGS
+`JavaScript` `ES6` `Web Scraping`
 
-## TAGS:
-`JavaScript` `ES6` `Fetch API` `RSS` `XML Parsing` `Traffic Rotator` `Raddy`
+## VOCAB
+- N/A
 
-## VOCAB:
-- **Tutwrk:** This is term I use to indicate the work I did when following a tutorial. This term is differentiated from tutorials I may create/author in the future that will be designated with the term "Tutorial".
-
-## Resources:
+## Resources
 - N/A
