@@ -19,7 +19,7 @@
 
 ## Purpose
 
-**<u>App:</u>** Grabs (scrapes) and prints to console title, url, and channel name using vanilla JavaScript ES6. This is useful for quickly grabbing enough information to **_make a link to a YouTube video and/or channel_**.
+**<u>App:</u>** Grabs (scrapes) data from a YouTube video page and prints to console title, url, and channel name using vanilla JavaScript ES6. This is useful for quickly grabbing enough information to **_make a link to a YouTube video and/or channel_**.
 
 ## Description
 
@@ -35,7 +35,9 @@ N/A
 
     
 ## Usage
-1. Copy-paste JS code into browser console and run
+1. Open YouTube video page (you can pause video or let it play)
+2. Open developer console (F12)
+3. Copy-paste JS code into browser console and run (hit enter)
     
 ## Sample results: 
 
