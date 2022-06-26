@@ -23,7 +23,7 @@
 
 ## Purpose
 
-**<u>App:</u>** This may actually be better called a "Demo" (we shall see). It simply consumes RSS with plain vanilla JavaScript.
+**<u>App:</u>** Grabs (scrapes) and prints to console title, url, and channel name using vanilla JavaScript ES6. This is useful for quickly grabbing enough information to **_make a link to a YouTube video and/or channel_**.
 
 ## Description
 
@@ -59,9 +59,10 @@ N/A
 * JavaScript
 * ES6 / ECMAScript 2015
 * Web Scraping / Web Scrapers
+* Vanilla JS
 
 ## TAGS
-`JavaScript` `ES6` `Web Scraping`
+`JavaScript` `ES6` `Web Scraping` `Vanilla JS`
 
 ## VOCAB
 - N/A
