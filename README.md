@@ -2,7 +2,7 @@
 | ------------- | ---------------------------------- |
 | Program Name  | **App: Parse RSS with JavaScript** |
 | File Name     | README.md                          |
-| Date Created  | 06/26/22                           |
+| Date Created  | 10/25/21                           |
 | Date Modified | --                                 |
 | Version       | 1.00                               |
 | Programmer    | Eric Hepperle                      |
