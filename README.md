@@ -39,21 +39,30 @@ N/A
 2. Open developer console (F12)
 3. Copy-paste JS code into browser console and run (hit enter)
     
-## Sample results: 
+## Sample Results: 
 
-![Sample Results PLACEHOLDER]()
+~~~
+Tutorial Info:
+- Title: Create a Live Highway Traffic Rotator using JavaScript - RSS / XML
+- Full URL: https://www.youtube.com/watch?v=iPUnS49EomI
+- Base URL: https://www.youtube.com/watch?v=iPUnS49EomI
+- Channel: Awesome Open Source
+- Channel URL: https://www.youtube.com/c/AwesomeOpenSource
+- Avatar URL: https://yt3.ggpht.com/ytc/AKedOLRoYQU9YzUWgOceIRbwnjzsWP9V-ckmp4QC9wcq=s68-c-k-c0x00ffffff-no-rj
+~~~
 
 ## Requires
-* A web browser.
+* Browser opened to a YouTube video with developer console exposed.
     
 ## Demonstrates
 * JavaScript
 * ES6 / ECMAScript 2015
 * Web Scraping / Web Scrapers
-* Vanilla JS
+* Vanilla JavaScript
+* YouTube Scraping
 
 ## TAGS
-`JavaScript` `ES6` `Web Scraping` `Vanilla JS`
+`JavaScript` `ES6` `Web Scraping` `Vanilla JavaScript`
 
 ## VOCAB
 - N/A
