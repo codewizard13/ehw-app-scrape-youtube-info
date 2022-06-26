@@ -9,10 +9,6 @@
 
 ### TECHNOLOGIES
 
-<img align="left" alt="HTML5" title="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="CSS3" title="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-
 <img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Git" title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
@@ -28,13 +24,6 @@
 ## Description
 
 N/A
-
-### Concepts Covered
-
-- What the fetch API is
-- How to use the fetch API
-- Parsing XML with JavaScript fetch API
-- Consuming / Parsing XML with fetch
 
 ### Materials/References
 
