@@ -1,5 +1,6 @@
 // app.js | Eric Hepperle
 
+/* PASTE this into developer console on a video page and run */
 console.clear();
 
 let vid_title = document.querySelector('#container > h1 > yt-formatted-string').innerText
