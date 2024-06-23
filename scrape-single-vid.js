@@ -1,4 +1,4 @@
-// app.js | Eric Hepperle
+// scrape-single-vid.js | Eric Hepperle
 
 /* PASTE this into developer console on a video page and run */
 console.clear();

@@ -21,17 +21,14 @@
 
 **<u>App:</u>** Grabs (scrapes) data from a YouTube video page and prints to console title, url, and channel name using vanilla JavaScript ES6. This is useful for quickly grabbing enough information to **_make a link to a YouTube video and/or channel_**.
 
-## Description
+## Included Scripts
 
-N/A
+- [Scrape YouTube Single Video Deets](/scrape-single-vid.js)
+- [Scrape YouTube Playlist Deets](scrape-linkedin-course-deets.js)
 
 ### Materials/References
 
 - [https://bytearcher.com/articles/es6-vs-es2015-name/](https://bytearcher.com/articles/es6-vs-es2015-name/)
-
-### Sample Code from Tutorial
-
-![Sample Code PLACEHOLDER]()
 
     
 ## Usage
@@ -41,15 +38,7 @@ N/A
     
 ## Sample Results: 
 
-~~~
-Tutorial Info:
-- Title: Create a Live Highway Traffic Rotator using JavaScript - RSS / XML
-- Full URL: https://www.youtube.com/watch?v=iPUnS49EomI
-- Base URL: https://www.youtube.com/watch?v=iPUnS49EomI
-- Channel: Awesome Open Source
-- Channel URL: https://www.youtube.com/c/AwesomeOpenSource
-- Avatar URL: https://yt3.ggpht.com/ytc/AKedOLRoYQU9YzUWgOceIRbwnjzsWP9V-ckmp4QC9wcq=s68-c-k-c0x00ffffff-no-rj
-~~~
+- N/A
 
 ## Requires
 * Browser opened to a YouTube video with developer console exposed.
@@ -62,7 +51,7 @@ Tutorial Info:
 * YouTube Scraping
 
 ## TAGS
-`JavaScript` `ES6` `Web Scraping` `Vanilla JavaScript`
+`JavaScript` `ES6` `Web Scraping` `Vanilla JavaScript` `YouTube`
 
 ## VOCAB
 - N/A
